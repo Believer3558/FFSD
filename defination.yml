@@ -1,0 +1,63 @@
+#Domain : Non-Profit & NGO operations
+#Problem Statement : Volunteer & Resource coordination System
+#Last Updated : 2026-01-29
+
+Volunteer:
+  definition:
+    A person who actively participates in NGO activities by contributing time, effort, or skills to carry out assigned tasks and support program execution.
+  examples:
+    - A student organizing awareness campaigns on environmental conservation
+    - A college student applying to help in a food distribution drive
+  aliases:
+    - ProgramVolunteer
+    - CommunityVolunteer
+
+Donor:
+  definition: 
+    An individual or organization that supports the NGO by providing financial contributions or material resources to enable programs and initiatives.
+  examples:
+    - An individual donating money through the NGO platform
+    - A local business donating supplies for disaster relief
+  aliases:
+    - ResourceContributor
+    - FinancialSupporter
+
+Beneficiary:
+  definition:
+    An individual or community for whom the NGO's programs are intended and who receives assistance, services, or support as an outcome of those programs.
+  examples:
+    - Elderly individuals receiving healthcare support through outreach camps
+    - Homeless individuals receiving meals through a community feeding program
+  aliases:
+    - ServiceRecipient
+    - AidRecipient
+
+FundraisingCampaign:
+  definition:
+    A structured initiative led by the NGO to collect funds or resources from donors for a specific social cause.
+  examples:
+    - Emergency medical aid fundraising campaign
+    - Child welfare fundraising campaign
+  aliases:
+    - FundDrive
+    - DonationCampaign
+
+Task:
+  definition:
+    A clearly defined responsibility assigned to a volunteer to support NGO programs and activities.
+  examples:
+    - Conducting household surveys for community needs assessment
+    - Collecting beneficiary feedback
+  aliases:
+    - VolunteerTask
+    - ProgramActivity
+
+AssistanceRequest:
+  definition:
+    A formal request submitted by a beneficiary through the system to receive support or resources from the NGO.
+  examples:
+    - Request for medical aid
+    - Request for food supplies
+  aliases:
+    - HelpRequest
+    - SupportRequest
